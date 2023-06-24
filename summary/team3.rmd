@@ -1,11 +1,9 @@
 ---
 title: "Summary"
 author:
-  - xxx
-  - xxx
-  - xxx
-  - xxx
-  - xxx
+  - Abimbola Maryam Sanusi
+  - Daniyar Sadykhanov
+  - Honghui Yang
 date: "`r Sys.Date()`"
 ---
 
