@@ -1,11 +1,10 @@
 ---
 title: "Summary"
 author:
-  - xxx
-  - xxx
-  - xxx
-  - xxx
-  - xxx
+  - Honghui Yang
+  - Daniyar Sadykhanov
+  - Abimbola Maryam Sanusi
+ 
 date: "`r Sys.Date()`"
 ---
 
@@ -18,6 +17,7 @@ Individually read and review the paper.
 As a group, please summarize your thoughts including the following:
 
 1. How original is the topic?
+
 2. What is the main question addressed by the research?
 3. Are the conclusions consistent with the evidence and arguments presented?
 
